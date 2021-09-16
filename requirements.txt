@@ -257,9 +257,6 @@ tblib==1.7.0
 tensorboard==2.5.0
 tensorboard-data-server==0.6.0
 tensorboard-plugin-wit==1.8.0
-tensorflow==2.3.0
-tensorflow-estimator==2.5.0
-tensorflow-hub==0.12.0
 termcolor==1.1.0
 terminado==0.9.4
 testpath==0.5.0
